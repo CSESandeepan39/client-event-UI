@@ -20,7 +20,7 @@ Singing Event          |  Tickets
 
 
 ## Technologies
-* [Figma](https://www.adobexd.com/)
+* [Figma](https://www.Figma.com/)
 * [Icons8](https://icons8.com/)
 * [unDraw](https://undraw.co/illustrations)
 
