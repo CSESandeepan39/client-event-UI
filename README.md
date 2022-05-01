@@ -15,7 +15,7 @@ Sample User Interfaces I designed using Figma <br><br>
 ## Screenshots
 Singing Event          |  Tickets
 :-------------------------:|:-------------------------:
-![MAIN PAGE](Homepage.png)|![LOGIN](https://github.com/CSESandeepan39/UI-app/blob/main/Google%20Pixel%204%2C%204XL%20–%202.png)
+![MAIN PAGE](Homepage.png)|![LOGIN](Tickets-1.png)
 
 
 
