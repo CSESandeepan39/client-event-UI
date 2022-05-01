@@ -13,14 +13,10 @@ Sample User Interfaces I designed using Figma <br><br>
 
 
 ## Screenshots
-
-GameBoard          |  Job Categories Screen
+Singing Event          |  Tickets
 :-------------------------:|:-------------------------:
-![MAIN PAGE](https://github.com/CSESandeepan39/UI-app/blob/main/Google%20Pixel%204%2C%204XL%20–%201.png)|![LOGIN](https://github.com/CSESandeepan39/UI-app/blob/main/Google%20Pixel%204%2C%204XL%20–%202.png)
+![MAIN PAGE](Homepage.png)|![LOGIN](https://github.com/CSESandeepan39/UI-app/blob/main/Google%20Pixel%204%2C%204XL%20–%202.png)
 
-Job Categories Screen  |  Client List Screen
-:-------------------------:|:-------------------------:
-![SIGN UP](https://github.com/CSESandeepan39/UI-app/blob/main/Google%20Pixel%204%2C%204XL%20–%203.png)|![ON BOARDING](https://github.com/CSESandeepan39/UI-app/blob/main/Google%20Pixel%204%2C%204XL%20–%204.png)
 
 
 ## Technologies
